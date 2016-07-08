@@ -1,2 +1,8 @@
-# Team-A
-Capstone Project -  Team A
+# Capstone Project -  Team A
+
+## Members
+- Austin
+- Olena
+- Nina
+- Uma
+- Vincent
