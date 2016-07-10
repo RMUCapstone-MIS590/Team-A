@@ -6,3 +6,7 @@
 - Nina
 - Uma
 - Vincent
+
+
+## Slack Channel
+http://rmucapstone.slack.com
