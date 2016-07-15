@@ -20,7 +20,7 @@ https://github.com/RMUCapstone-MIS590/Team-A/wiki
 
 # GITHUB LABELS AND MILESTONES
 
-`BUG` - 
+`BUG` - The issue documents broken, incorrect, or confusing behavior.
 
 `DISCUSSION` -
 
