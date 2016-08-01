@@ -38,6 +38,18 @@ Add the following labels to your repository:
 - `priority: high`
 - `priority: highest`
 
+### Time
+
+**Highest** = Within 24 Hours
+
+**High** = Within 72 hours
+
+**Medium** = Within 96 Hours
+
+**Low** = Within 7 Days
+
+**Lowest** = When time allows
+
 ### Points
 
 `point` labels allow you to to assign velocity points to individual items (issues) e.g. using [Fibonacci numbers](http://en.wikipedia.org/wiki/Fibonacci_number):
