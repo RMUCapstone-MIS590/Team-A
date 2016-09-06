@@ -4,3 +4,6 @@
 [submodule "versionpress"]
 	path = versionpress
 	url = https://github.com/versionpress/versionpress.git
+[submodule "WordPress-Plugin-Boilerplate"]
+	path = WordPress-Plugin-Boilerplate
+	url = https://github.com/DevinVinson/WordPress-Plugin-Boilerplate.git
